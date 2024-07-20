@@ -128,11 +128,3 @@
 </div>
 
 ###
-
-<br>
-
-###
-
-<img src="https://raw.githubusercontent.com/anuragzete/anuragzete/output/snake.svg" alt="Snake animation" />
-
-###
