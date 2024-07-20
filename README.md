@@ -27,11 +27,11 @@
 
 ###
 
-<h3 align="center">Technologies I'm comfortable with</h3>
+<h3 align="center">👉 Technologies I'm comfortable with 👈</h3>
 
 ###
 
-<h3 align="left">🛠 Languages :</h3>
+<h3 align="left">🫰 Languages :</h3>
 
 ###
 
