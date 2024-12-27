@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on some java projects <br>- 🌱 I’m currently learning node.js <br>-⚡ Fun fact : In my free time I love to code</p>
+<p align="left">- 🔭 I’m currently working on some java projects <br>- 🌱 I’m currently learning ReactJs <br>-⚡ Fun fact : In my free time I love to code</p>
 
 ###
 
