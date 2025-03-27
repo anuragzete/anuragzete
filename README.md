@@ -67,7 +67,7 @@ I am a **Computer Science student** passionate about creating robust, scalable, 
 
 ### 🛠️ Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,python,c" height="55" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,react,python,c" height="55" alt="Languages" />
 </p>
 
 ### ⚙️ Tools & Technologies  
