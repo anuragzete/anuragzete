@@ -1,130 +1,127 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8A2BE2&width=700&lines=Full-Stack+Java+Developer;Cybersecurity+%7C+Blockchain+%7C+Tech+Enthusiast;Let's+Build+Something+Awesome+Together!+💻" alt="Typing SVG" />
+</div>
 
-###
+---
+
+## 🚀 **Hi, I'm Anurag Zete!**
+🌟 **Computer Science Student** | 💻 **Full-Stack Java Developer** | 🔒 **Cybersecurity & Blockchain Enthusiast**
 
 <div align="center">
-  <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=anuragzete&txt=A%20Passionate%20Indian%20Developer"></p>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200" alt="Welcome Animation"/>
 </div>
 
-###
+---
 
-<br>
+## 👨‍🎓 **About Me**
+I am a **Computer Science student** passionate about creating robust, scalable, and secure web applications. My expertise lies in **Java Full-Stack Development**, **Cybersecurity**, and **Blockchain**. I thrive on solving complex problems, building efficient systems, and experimenting with new technologies.  
 
-###
+- 🎓 **Education**:  
+  - **B.E in Computer Science (2022-2026)**  
+  - **Savitribai Phule Pune University (SPPU)** 
+  - Research: *Offline UPI Payments Using Blockchain & Edge Computing*  
 
-<img align="right" height="150" alt="coder guy" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif"  />
+- 🚀 **Key Interests**:  
+  - 💻 **Full-Stack Development**  
+  - 🔒 **Cybersecurity & Encryption**  
+  - 🌐 **Blockchain & Web3**
+ 
+- 🛠️ **Fun Facts**
+  - 💻 **Tech Geek**: Always exploring new technologies and frameworks.  
+  - 🚀 **Space Enthusiast**: Fascinated by space exploration and sci-fi.  
+  - 🎯 **Fun Fact:** I can debug code faster than I can debug my life! 😂    
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 💼 **Work Experience**
 
-###
+### 💻 **Full Stack Java Developer (Freelance)**  
+*Jan 2024 – Present*  
+- Developed and deployed multiple **Java-based full-stack applications**.  
+- Improved performance by **30%** through optimized database queries and caching.  
+- Implemented **authentication systems** using Firebase and Microsoft Entra ID.  
+- Automated deployment with **GitHub Actions**.  
 
-<p align="left">- 🔭 I’m currently working on some java projects <br>- 🌱 I’m currently learning React Js <br>-⚡ Fun fact : In my free time I love to code</p>
+### 🔒 **More Projects**
+- **🔑 Password Manager:** Secure desktop app with encrypted storage.  
+- **🔥 GitHub Streak Booster:** Automated commit scheduler using Java and GitHub Actions.  
+- **💬 Realtime Game App:** Developed realtime game app using **WebSockets** and **Java Servlets**.  
 
-###
+---
 
-<br>
+## 🌟 **Projects**
 
-###
-
-<h3 align="center">👉 Technologies I'm comfortable with 👈</h3>
-
-###
-
-<h3 align="left">🫰 Languages :</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left">🛠 Tools :</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-
-<!--
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-</div>
-
--->
-
-###
-
-<br>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
+### 🚀 **Featured Project**
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=anuragzete.anuragzete&"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragzete&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=anuragzete&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<br>
-
-###
-
-<h3 align="left">📫 How to reach me :</h3>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/anurag-zete-4861a3290" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://github.com/anuragzete/My-Portfolio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragzete&repo=My-Portfolio&theme=radical&border_radius=10" alt="Portfolio Project Card" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100072324526930&sk=about" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="anuragzete27@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  <a href="https://github.com/anuragzete/My-Blogs" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragzete&repo=My-Blogs&theme=radical&border_radius=10" alt="Blogs Project Card" />
   </a>
 </div>
 
-###
+---
+
+## 🚀 **Tech Stack & Tools**
+
+### 🛠️ Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,python,c" height="55" alt="Languages" />
+</p>
+
+### ⚙️ Tools & Technologies  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,firebase,postman,vscode,idea" height="55" alt="Tools" />
+</p>
+
+---
+
+## 📜 **Certifications**
+- 🎓 **Java Full-Stack Development** - Infosys Springboard  
+- 🔐 **Cybersecurity Essentials** - Cisco Networking Academy  
+- 🌐 **Web3 & Blockchain Basics** -   
+
+---
+
+## 🌟 **Achievements & Extracurricular**
+- 🛠️ **Built a personilized blogging web app** with **React & Firebase**.  
+- 🏅 Participated in **Smart India Hackathon**.  
+- 🚀 Participated in **open-source projects** and contributed bug fixes & enhancements.
+  
+---
+
+## 🔥 **My Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragzete&show_icons=true&theme=radical&hide_border=true" height="200" alt="Anurag's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=anuragzete&theme=radical&hide_border=true&border_radius=10" height="200" alt="Anurag's GitHub Streak" />
+</p>
+
+---
+
+## 🔥 **Visitor Count**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anuragzete.anuragzete&style=for-the-badge" alt="Visitor Count" />
+</div>
+
+---
+
+## 📫 **Connect with Me**
+<div align="center">
+  <a href="https://www.linkedin.com/in/anurag-zete-java-developer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/itsJoker0013" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white&style=for-the-badge" height="40" alt="X (formerly Twitter)" />
+  </a>
+  <a href="mailto:anuragzete27@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" height="40" alt="Outlook" />
+  </a>
+  <a href="https://leetcode.com/u/anuragzete/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" height="40" alt="LeetCode" />
+  </a>
+</div>
+
+---
+
+✅ **"Let’s build, break, and innovate together!" 🚀**
