@@ -56,8 +56,8 @@ I am a **Computer Science student** passionate about creating robust, scalable, 
   <a href="https://github.com/anuragzete/My-Portfolio" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragzete&repo=My-Portfolio&theme=radical&border_radius=10" alt="Portfolio Project Card" />
   </a>
-  <a href="https://github.com/anuragzete/My-Blogs" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragzete&repo=My-Blogs&theme=radical&border_radius=10" alt="Blogs Project Card" />
+  <a href="https://github.com/anuragzete/Certificates" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragzete&repo=Certificates&theme=radical&border_radius=10" alt="Certificates Card" />
   </a>
 </div>
 
