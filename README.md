@@ -19,7 +19,7 @@ I am a **Computer Science student** passionate about creating robust, scalable, 
 - 🎓 **Education**:  
   - **B.E in Computer Science (2022-2026)**  
   - **Savitribai Phule Pune University (SPPU)** 
-  - **Research: Hybrid Middleware for Defense C2 Networks**  
+  - **Research: Hybrid Middleware for C2 and Intranet Networks**  
 
 - 🚀 **Key Interests**:  
   - 💻 **Full-Stack Development**  
